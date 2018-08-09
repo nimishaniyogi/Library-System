@@ -1,0 +1,144 @@
+book
+La Rabida,Lecture Notes in Mathematics
+Mark Goresky and Robert MacPherson
+Brewer & sons
+54854455412
+1981    
+961
+book
+Lecture Notes in Pure and Applied Mathematics
+Micha Kwiecinski
+Simon & sons
+54854455411
+1987
+193
+book
+Proceedings of Liverpool
+Robert MacPherson
+Simon and Simon
+54854455413
+1981
+192
+book
+Integral Geoemetry, Proceedings,Contemporary Mathematics
+Theodore Shifrin
+McNally
+54854455414
+1984
+63   
+book
+Singularities,Lecture Notes in Mathematics
+D. Sullivan
+Huxley
+54854455415
+1981
+192
+periodical
+Characteristic classes of hypersurfaces and characteristic cycles
+Huxley
+English
+1998
+1
+11
+periodical
+Chern classes for singular hypersurfaces
+Huxley
+English
+1999
+2
+15 
+periodical
+Chern numbers for singular varieties and elliptic homology
+Huxley
+English
+1997
+3
+20   
+periodical
+Pure hodge structure on the cohomology of varieties with isolated singularities
+Taylor and sons
+English
+1998
+1
+15 
+periodical
+A blow-up construction and graph coloring
+Simon
+English
+1996
+8
+17  
+periodical
+Calcul des invariants numeriques des singularites et applications
+La Rouge
+French
+1981
+5
+21
+periodical
+Singularities
+Sensei
+English
+2017
+10
+28
+article
+Le Dung Trang and Zoghman Mebkhout
+Varietes caracter-istiques et varietes polaires
+C. R. Acad. Sc. Paris
+296
+1983
+129--132
+article
+Joel Biran con and Philippe Maisonobe and Michel Merle
+Localisation de systemes differentiels, stratifications de Whitney et condition de {T}hom
+Invent. Math.
+117
+1994
+531--550
+article
+Adam Parusinski and Piotr Pragacz
+A formula for the Euler characteristic of singular hypersurfaces
+J. Alg. Geom.
+4
+1995
+337-351   
+article
+Jean--Luc Brylinski
+CoHomologie d'intersection et faisceaux pervers
+Seminaire Bourbaki
+585
+1982
+129--157  
+article
+Gary Kennedy
+Specialization of MacPherson's Chern classes
+Math. Scand.
+66
+1990
+12--16 
+article
+Adam Parusinski
+A generalization of the {M}ilnor number
+Math. Ann.
+281
+1988
+247--254
+article
+Le Dung Trang and Bernard Teissier
+Varietes polaires locales et classes de Chern des varietes singulieres
+Ann. of Math.
+114
+1981
+457--491      
+article
+Dirk Siersma and Mihai Tibar
+Singularities at infinity and their vanishing cycles
+Duke Math. J.
+80
+1995
+771--783
+    
+
+
+
